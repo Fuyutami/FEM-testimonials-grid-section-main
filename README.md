@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://fuyutami.github.io/FEM-testimonials-grid-section-main/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/html-css-grid-bem-sass-J7dDK-FPl)
+- Live Site URL: [here](https://fuyutami.github.io/FEM-testimonials-grid-section-main/)
 
 ## My process
 
